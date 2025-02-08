@@ -55,6 +55,9 @@
     padding: 26px 74px;
     display: inline-block;
 }
+.buy__link:hover {
+	background-color: #838383;
+}
 
 .buy__price {
     /* 
