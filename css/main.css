@@ -57,6 +57,7 @@
 }
 .buy__link:hover {
 	background-color: #838383;
+	color: #000;
 }
 
 .buy__price {
